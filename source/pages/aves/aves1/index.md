@@ -3,59 +3,60 @@ layout: basic.liquid
 tags: aves
 group: aves
 
-title: Pollo a las hierbas con ajo
+title: Pollo al Curry
 description: Page description
-imageCover: https://instantpot.mx/wp-content/uploads/2019/11/recetas-21.jpg
-imagePreview: https://instantpot.mx/wp-content/uploads/2019/11/recetas-21.jpg
-imagePreviewMini: https://instantpot.mx/wp-content/uploads/2019/11/recetas-21.jpg
+imageCover: https://img.freepik.com/free-photo/curry-with-chicken-onions-indian-food-asian-cuisine-top-view_2829-4414.jpg?w=740&t=st=1677185928~exp=1677186528~hmac=cd20031fceb3edcac0c5542d65642d8a68d333cbbc96ff2501644843f58b6a9c
+imagePreview: https://img.freepik.com/free-photo/curry-with-chicken-onions-indian-food-asian-cuisine-top-view_2829-4414.jpg?w=740&t=st=1677185928~exp=1677186528~hmac=cd20031fceb3edcac0c5542d65642d8a68d333cbbc96ff2501644843f58b6a9c
+imagePreviewMini: https://img.freepik.com/free-photo/curry-with-chicken-onions-indian-food-asian-cuisine-top-view_2829-4414.jpg?w=740&t=st=1677185928~exp=1677186528~hmac=cd20031fceb3edcac0c5542d65642d8a68d333cbbc96ff2501644843f58b6a9c
 pubDate: 2022-10-12 01:12:43
 keywords:
 - Aves1
 ---
 
-Pollo a las hierbas con ajo
+Pollo al Curry
+
 Ingredientes:
 
-Para la marinada:
+1 kg de muslos de pollo deshuesados y sin piel
 
-2 cucharadas de aceite de oliva
-1 cucharada de mostaza dijon
-1 cucharada de vinagre de manzana
-1 cucharada de ajo, finamente picado
-1 cucharadita de hierbas finas
-1 cucharadita de pimienta
-1⁄2 cucharadita de sal
-Para el pollo:
+1 cebolla picada
 
-500 g de muslos de pollo, sin piel
-2 cucharadas de mantequilla
-8 dientes de ajo picado
-1⁄4 taza de agua
-2 cucharadas de fécula de maíz
-1⁄4 taza de crema para batir
-Pimienta negra
-Porciones:
-4 porciones
-Tiempo de preparación:
-35 min
-Nivel de dificultad:
-Bajo
-Momento de consumo:
-Comida
-Share:
-  
-Procedimiento:
-Para la marinada:
+3 dientes de ajo picados
 
-1. Mezcla en un recipiente el aceite de oliva, la mostaza, el vinagre, el ajo, las hierbas finas, la pimienta y la sal. Reserva 2 cucharadas.
+2 cucharadas de aceite vegetal
 
-Para el pollo:
+1 taza de caldo de pollo
 
-Sumerge el pollo en la salsa, cuidando que quede cubierto de manera uniforme.
-Presiona “saltear” en tu ​Instant Pot® ​y dale 10 minutos de tiempo. (De ser necesario, daremos más tiempo en esta opción).
-Agrega la mantequilla y espera a que se derrita. Añade el resto del ajo y los muslos; voltea cuando estén sellados y agrega la marinada que tenías reservada, seguida por el agua. Mezcla todo.
-Cierra​ ​y presiona “Cocinar a presión”, cierra la válvula y dale 5 minutos de tiempo.
-Después de transcurridos los 5 minutos de presión en tu ​Instant Pot®​, deja reposar por 10 minutos y finalmente, con ayuda de una pala, gira la válvula y deja escapar el vapor restante.
-Revuelve la fécula de maíz con la crema para batir y viértela sobre el pollo. Incorpora.
-Sirve, baña con más salsa y decora con pimienta negra.
+1 lata de leche de coco
 
+2 cucharadas de pasta de curry rojo
+
+1 cucharada de azúcar morena
+
+1 cucharada de salsa de pescado
+
+Sal y pimienta al gusto
+
+Cilantro fresco picado para decorar
+
+Instrucciones:
+
+En la olla Instant Pot, selecciona el modo "Saltear" y agrega el aceite vegetal.
+
+Agrega la cebolla y el ajo y saltea hasta que estén suaves, aproximadamente durante 3-4 minutos.
+
+Agrega los muslos de pollo y dora por ambos lados, aproximadamente durante 3-4 minutos por cada lado.
+
+Agrega el caldo de pollo, la leche de coco, la pasta de curry rojo, el azúcar morena y la salsa de pescado. Revuelve para combinar.
+
+Cierra la tapa de la Instant Pot y asegúrate de que la válvula esté en la posición de "sellado".
+
+Presiona el botón "Manual" y selecciona un tiempo de cocción de 8 minutos a alta presión.
+
+Una vez que se complete el ciclo de cocción, deja que la presión naturalmente se libere durante 10 minutos.
+
+Después de que hayan pasado 10 minutos, gira la válvula a la posición de "ventilación" para liberar la presión restante.
+
+Abre la tapa de la Instant Pot y verifica la sazón. Ajusta la sal y la pimienta según sea necesario.
+
+Decora con cilantro fresco picado y sirve caliente con arroz.
