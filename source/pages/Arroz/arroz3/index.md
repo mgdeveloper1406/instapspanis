@@ -3,45 +3,62 @@ layout: basic.liquid
 tags: arroz
 group: arroz
 
-title: Risotto al vino blanco
+title: Arroz con Verduras
 description: Page description
-imageCover: https://instantpot.mx/wp-content/uploads/2019/11/recetas-24.jpg
-imagePreview: https://instantpot.mx/wp-content/uploads/2019/11/recetas-24.jpg
-imagePreviewMini: https://instantpot.mx/wp-content/uploads/2019/11/recetas-24.jpg
+imageCover: https://img.freepik.com/free-photo/steamed-rice-with-seafood-calamary-corns-carrot-peas-side-view_141793-3564.jpg?w=740&t=st=1677185387~exp=1677185987~hmac=445f06b99c47c93b86e2bc50e8cf19a52995aa64c0807b27979db619154a7063
+imagePreview: https://img.freepik.com/free-photo/steamed-rice-with-seafood-calamary-corns-carrot-peas-side-view_141793-3564.jpg?w=740&t=st=1677185387~exp=1677185987~hmac=445f06b99c47c93b86e2bc50e8cf19a52995aa64c0807b27979db619154a7063
+imagePreviewMini: https://img.freepik.com/free-photo/steamed-rice-with-seafood-calamary-corns-carrot-peas-side-view_141793-3564.jpg?w=740&t=st=1677185387~exp=1677185987~hmac=445f06b99c47c93b86e2bc50e8cf19a52995aa64c0807b27979db619154a7063
 pubDate: 2022-10-12 01:06:49
 keywords:
 - Arroz3
 ---
 
-Risotto al vino blanco
+Arroz con Verduras
+
 Ingredientes:
 
-1 cebolla, picada
-2 dientes de ajo, picados
+2 tazas de arroz blanco
+
+2 1/2 tazas de caldo de verduras o agua
+
+1 cucharadita de sal
+
 1 cucharada de aceite de oliva
-4 cucharadas de mantequilla
-1 taza de arroz arbóreo
-1⁄2 taza de vino blanco
-1 taza de champiñones, picados
-1 1⁄2 tazas de caldo de res
-1⁄2 taza de queso parmesano
-Porciones:
-4 porciones
-Tiempo de preparación:
-35 min
-Nivel de dificultad:
-Bajo
-Momento de consumo:
-Comida
-Share:
-  
-Procedimiento:
-Presiona “saltear” en tu ​Instant Pot® ​y dale 10 minutos de tiempo. (De ser necesario, daremos más tiempo en esta opción).
-Agrega el aceite, 2 cucharadas de mantequilla, la cebolla y el ajo. Mezcla hasta que cambien de color.
-Añade el arroz y revuelve hasta que quede completamente cubierto de aceite. Vierte el vino y deja que hierva.
-Incorpora los champiñones y el caldo de res y mueve.
-Cierra​ ​y presiona “Cocinar a presión”, cierra la válvula y dale 5 minutos de tiempo.
-Después de transcurridos los 5 minutos de presión en tu ​Instant Pot®​, deja reposar hasta que el pivote se haya bajado. Esto nos permite que la presión disminuya de forma natural.
-Agrega el resto de mantequilla y el queso parmesano.
-Sirve y decora con más queso parmesano y albahaca.
+
+1 cebolla mediana, picada
+
+2 dientes de ajo, picados
+
+2 zanahorias grandes, peladas y cortadas en cubos pequeños
+
+1 pimiento rojo, cortado en cubos pequeños
+
+1 pimiento verde, cortado en cubos pequeños
+
+1 taza de guisantes congelados
+
+1/2 cucharadita de pimienta negra molida
+
+Instrucciones:
+
+Enciende la Instant Pot en modo "Salteado" y agrega el aceite de oliva.
+
+Agrega la cebolla y el ajo y saltea hasta que estén dorados, aproximadamente durante 2-3 minutos.
+
+Agrega las zanahorias, los pimientos y los guisantes y revuelve para mezclar.
+
+Agrega el arroz y revuelve durante 1 minuto, asegurándote de que todo el arroz esté cubierto con la mezcla de verduras.
+
+Agrega el caldo de verduras o agua y la sal. Revuelve para combinar.
+
+Asegúrate de que la válvula esté en "sellado" y presiona el botón "Arroz".
+
+Una vez que se complete el ciclo de cocción, deja que la presión naturalmente se libere durante 10 minutos.
+
+Después de que hayan pasado 10 minutos, gira la válvula a la posición "ventilación" para liberar la presión restante.
+
+Abre la olla Instant Pot y usa un tenedor para soltar el arroz y las verduras. Agrega la pimienta negra y revuelve suavemente para combinar.
+
+Sirve caliente y disfruta de este delicioso arroz con verduras como guarnición o como plato principal.
+
 

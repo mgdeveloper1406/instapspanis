@@ -3,46 +3,65 @@ layout: basic.liquid
 tags: arroz
 group: arroz
 
-title: Arroz frito con pollo
+title: Arroz con pollo 
 description: Page description
-imageCover: https://instantpot.mx/wp-content/uploads/2019/11/recetas-35.jpg
-imagePreview: https://instantpot.mx/wp-content/uploads/2019/11/recetas-35.jpg
-imagePreviewMini: https://instantpot.mx/wp-content/uploads/2019/11/recetas-35.jpg
+imageCover: https://img.freepik.com/free-photo/menu-comida-foodie-valencia-food_1350-68.jpg?w=740&t=st=1677185322~exp=1677185922~hmac=2c6df1edcb0a8c3fe22d3af9b7b85b80c328e850f7b39d245bc205512ee9900e
+imagePreview: https://img.freepik.com/free-photo/menu-comida-foodie-valencia-food_1350-68.jpg?w=740&t=st=1677185322~exp=1677185922~hmac=2c6df1edcb0a8c3fe22d3af9b7b85b80c328e850f7b39d245bc205512ee9900e
+imagePreviewMini: https://img.freepik.com/free-photo/menu-comida-foodie-valencia-food_1350-68.jpg?w=740&t=st=1677185322~exp=1677185922~hmac=2c6df1edcb0a8c3fe22d3af9b7b85b80c328e850f7b39d245bc205512ee9900e
 pubDate: 2022-10-12 01:06:20
 keywords:
 - Arroz2
 ---
 
-Arroz frito con pollo
+Arroz con pollo 
+
 Ingredientes:
 
-2 tazas de arroz blanco, enjuagado
-2 tazas de agua
-1 cebolla chica picada
-3 cucharadas de aceite de ajonjolí
-300 g de chícharo y zanahoria congelados
-1 taza de pollo cocido en cubos pequeños
-1 cucharada de mantequilla
-4 huevos
-2 cucharadas de salsa de soya
-1 cucharada de ajonjolí
-Tallos de cebolla cambray picado
-Ajonjolí
-Porciones:
-4 porciones
-Tiempo de preparación:
-​30 min
-Nivel de dificultad:
-Bajo
-Momento de consumo:
-Comida
-Share:
-  
-Procedimiento:
-Vacía el arroz y agua a tu ​Instant Pot®.​ Cierra​ ​y presiona “Cocinar a presión”, cierra la válvula y dale 4 minutos de tiempo.
-Después de transcurridos los 4 minutos de presión en tu ​Instant Pot®​, reposa por 10 minutos. Después deja escapar el vapor presionando el botón al lado de la válvula. Retira el arroz.
-Presiona “saltear” en tu ​Instant Pot® ​y dale 10 minutos de tiempo. (De ser necesario, daremos más tiempo en esta opción).
-Calienta el aceite de ajonjolí y cocina la cebolla hasta que cambie de color. Añade el chícharo, zanahoria, pollo cocido y mantequilla. Mezcla todo.
-Bate los huevos en otro recipiente y agrégalo a tu ​Instant Pot®. Incorpora todos los ingredientes.
-Regresa el arroz cocido, vacía la salsa de soya y ajonjolí. Disfruta y decora con tallos de cebolla cambray y más ajonjolí.
+1 taza de arroz blanco
+
+1 taza de caldo de pollo
+
+1 taza de agua
+
+1 cucharadita de ajo en polvo
+
+1 cucharadita de cebolla en polvo
+
+1/2 cucharadita de sal
+
+1/4 cucharadita de pimienta negra
+
+1 pechuga de pollo sin piel, cortada en cubos
+
+1 lata (14.5 oz) de tomates picados con jugo
+
+1 pimiento rojo, cortado en tiras
+
+1 cebolla mediana, cortada en cubos
+
+1 cucharadita de comino molido
+1/2 cucharadita de cilantro molido
+
+1/2 cucharadita de chile en polvo
+
+Instrucciones:
+
+Enjuaga el arroz y colócalo en la olla Pot.
+
+Agrega el caldo de pollo, agua, ajo en polvo, cebolla en polvo, sal y pimienta negra. Revuelve para combinar.
+
+Coloca los cubos de pollo encima del arroz.
+
+Agrega los tomates con jugo, pimiento rojo, cebolla, comino, cilantro y chile en polvo.
+
+Revuelve ligeramente los ingredientes para que se mezclen, pero no demasiado para no desplazar el arroz y pollo del fondo de la olla.
+
+Asegúrate de que la válvula esté en "sellado" y presiona el botón "Arroz".
+
+Una vez que se complete el ciclo de cocción, deja que la presión naturalmente se libere durante 10 minutos.
+
+Después de que hayan pasado 10 minutos, gira la válvula a la posición "ventilación" para liberar la presión restante.
+
+Abre la olla Pot y usa un tenedor para soltar el arroz. Sirve caliente y disfruta de este delicioso arroz con pollo con un toque latino.
+
 
