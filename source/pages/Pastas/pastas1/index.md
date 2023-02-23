@@ -3,44 +3,50 @@ layout: basic.liquid
 tags: pastas1
 group: pastas1
 
-title: Pastas1
+title: Pasta con salsa de tomate y albahaca
 description: Page description
-imageCover: https://instantpot.mx/wp-content/uploads/2019/11/recetas-28.jpg
-imagePreview: https://instantpot.mx/wp-content/uploads/2019/11/recetas-28.jpg
-imagePreviewMini: https://instantpot.mx/wp-content/uploads/2019/11/recetas-28.jpg
+imageCover: https://img.freepik.com/free-photo/plate-basil-cherry-gourmet-menu_1220-1184.jpg?w=740&t=st=1677192207~exp=1677192807~hmac=c6d0a0aa97cec4dd866784661d6ff40bbe2de68c056f167690e23f786a4bcb87
+imagePreview: https://img.freepik.com/free-photo/plate-basil-cherry-gourmet-menu_1220-1184.jpg?w=740&t=st=1677192207~exp=1677192807~hmac=c6d0a0aa97cec4dd866784661d6ff40bbe2de68c056f167690e23f786a4bcb87
+imagePreviewMini: https://img.freepik.com/free-photo/plate-basil-cherry-gourmet-menu_1220-1184.jpg?w=740&t=st=1677192207~exp=1677192807~hmac=c6d0a0aa97cec4dd866784661d6ff40bbe2de68c056f167690e23f786a4bcb87
 pubDate: 2022-10-12 01:09:38
 keywords:
 - Pastas1
 ---
 
-Macarrones con queso
+Pasta con salsa de tomate y albahaca
+
 Ingredientes:
 
-500 g de macarrones (pasta)
-4 cucharadas de mantequilla
-4 tazas de agua
-2 cucharaditas de mostaza en polvo
-1⁄2 cucharadita de pimienta
-1 taza de leche evaporada
-1⁄2 taza de queso parmesano, rallado
-2 tazas de queso monterey jack rallado
-2 tazas de queso cheddar rallado
-1⁄2 cucharadita de sal
-Perejil picado
-Porciones:
-4 porciones
-Tiempo de preparación:
-10 min
-Nivel de dificultad:
-Bajo
-Momento de consumo:
-Comida
-Share:
-  
-Procedimiento:
-Agrega los macarrones, mantequilla, agua, mostaza en polvo, pimienta y agua a tu Instant Pot®​.
-Cierra​ ​y presiona “Cocinar a presión”, cierra la válvula y dale 4 minutos de tiempo.
-Después de transcurridos los 4 minutos de presión en tu ​Instant Pot®​, y con ayuda de una pala, gira la válvula y deja escapar el vapor.
-Vierte la leche evaporada, el queso parmesano, queso monterey jack, queso cheddar rallado y sal. Incorpora todos los ingredientes.
-Sirve y espolvorea perejil picado.
+500 gramos de pasta
 
+1 lata (400 gramos) de tomates enteros pelados
+
+1 cebolla picada
+
+4 dientes de ajo picados
+
+2 cucharaditas de aceite de oliva
+
+2 tazas de caldo de pollo o vegetales
+
+1/2 taza de hojas frescas de albahaca
+
+Sal y pimienta al gusto
+
+Instrucciones:
+
+Presiona el botón "Sauté" en la Instant Pot y agrega el aceite de oliva, la cebolla y el ajo. Cocina hasta que estén suaves.
+
+Agrega los tomates enteros pelados y el caldo de pollo o vegetales. Revuelve para combinar los ingredientes.
+
+Agrega la pasta y asegúrate de que esté completamente cubierta por la mezcla de tomate. Agrega sal y pimienta al gusto.
+
+Cierra la tapa de la Instant Pot y asegúrate de que la válvula esté en la posición "Sellado".
+
+Presiona el botón "Manual" y configura el tiempo de cocción en 5 minutos a alta presión.
+
+Cuando termine el tiempo de cocción, deja que la presión se libere naturalmente durante 5 minutos antes de abrir la tapa.
+
+Agrega las hojas de albahaca fresca y revuelve para combinar los ingredientes.
+
+Sirve caliente con queso parmesano rallado si lo deseas.
