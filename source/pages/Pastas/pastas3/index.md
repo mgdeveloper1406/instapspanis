@@ -3,51 +3,56 @@ layout: basic.liquid
 tags: pastas1
 group: pastas1
 
-title: Fettuccini Alfredo con Pollo
+title: Pasta Alfredo con Pollo
 description: Page description
-imageCover: https://instantpot.mx/wp-content/uploads/2019/11/recetas-38.jpg
-imagePreview: https://instantpot.mx/wp-content/uploads/2019/11/recetas-38.jpg
-imagePreviewMini: https://instantpot.mx/wp-content/uploads/2019/11/recetas-38.jpg
+imageCover: https://img.freepik.com/free-photo/fettucine-white-cream-sauce-with-shrimp-mushroom_74190-7574.jpg?w=740&t=st=1677192545~exp=1677193145~hmac=d7ebc52d8c87996d77de3b6f0c1781c384bf00391e920ba334f688fba7c6e3aa
+imagePreview: https://img.freepik.com/free-photo/fettucine-white-cream-sauce-with-shrimp-mushroom_74190-7574.jpg?w=740&t=st=1677192545~exp=1677193145~hmac=d7ebc52d8c87996d77de3b6f0c1781c384bf00391e920ba334f688fba7c6e3aa
+imagePreviewMini: https://img.freepik.com/free-photo/fettucine-white-cream-sauce-with-shrimp-mushroom_74190-7574.jpg?w=740&t=st=1677192545~exp=1677193145~hmac=d7ebc52d8c87996d77de3b6f0c1781c384bf00391e920ba334f688fba7c6e3aa
 pubDate: 2022-10-12 01:10:23
 keywords:
 - Pastas3
 ---
 
-Fettuccini Alfredo con Pollo
+Pasta Alfredo con Pollo
+
 Ingredientes:
 
-1 cucharada aceite de oliva
-1 kg de pechugas de pollo, mitades sin piel y sin hueso
-1 cucharadita de sal
-1⁄2 cucharadita de pimienta negra
+500 gramos de pasta fettuccine
+
+2 tazas de agua
+
+2 pechugas de pollo sin hueso y sin piel, cortadas en cubos
+
 2 cucharadas de mantequilla
-5 dientes de ajo, finamente picados
-2 tazas de crema para batir
-2 1⁄2 tazas de caldo de pollo
-1⁄4 cucharadita de sal
-1 pizca de nuez moscada
-500 g de fettuccini, seco
-3⁄4 taza de queso parmesano
-Albahaca en tiras
-Queso parmesano
-Pimienta negra molida
-Porciones:
-4 porciones
-Tiempo de preparación:
-40 min
-Nivel de dificultad:
-Bajo
-Momento de consumo:
-Comida
-Share:
-  
-Procedimiento:
-Presiona “saltear” en tu ​Instant Pot® ​y dale 10 minutos de tiempo. (De ser necesario, daremos más tiempo en esta opción).
-Agrega el aceite de oliva y las pechugas de pollo, espolvorea con sal y pimienta y sella. Retira y reserva.
-Añade la mantequilla y deja que se derrita. Incorpora el ajo, crema, caldo de pollo, sal, nuez moscada y mezcla. Combina el fettuccini y regresa las pechugas de pollo selladas. Tapa.
-Presiona “Cocinar a presión”, cierra la válvula y dale 10 minutos de tiempo.
-Después de transcurridos los 10 minutos de presión en tu ​Instant Pot®​, reposa por 10 minutos, gira la válvula con ayuda de una pala, para dejar salir el vapor.
-Retira el pollo de nuevo y córtalo en rebanadas, reserva.
-Espolvorea el queso parmesano y mezclca. Agrega las rebanadas de pollo e incorpora todos los ingredientes.
-Sirve y decora con albahaca. Añade queso parmesano y pimienta negra al gusto.
+
+3 dientes de ajo picados
+
+2 tazas de crema de leche
+
+1/2 taza de queso parmesano rallado
+
+1/4 cucharadita de sal
+
+1/4 cucharadita de pimienta negra
+
+Instrucciones:
+
+Agrega la pasta, el agua y los cubos de pollo a la Instant Pot. Asegúrate de que la pasta esté completamente cubierta de agua.
+
+Cierra la tapa de la Instant Pot y asegúrate de que la válvula esté en la posición "Sellado".
+
+Presiona el botón "Manual" y configura el tiempo de cocción en 6 minutos a alta presión.
+
+Cuando termine el tiempo de cocción, deja que la presión se libere naturalmente durante 5 minutos antes de abrir la tapa.
+
+Retira los cubos de pollo y colócalos en un plato aparte.
+
+Agrega la mantequilla y el ajo picado a la Instant Pot y saltea durante 1-2 minutos hasta que estén fragantes.
+
+Agrega la crema de leche, el queso parmesano rallado, la sal y la pimienta negra. Revuelve para combinar los ingredientes y deja que la salsa se caliente durante 1-2 minutos.
+
+Agrega la pasta y el pollo a la salsa y revuelve para combinar los ingredientes.
+
+Sirve caliente y espolvorea un poco de queso parmesano rallado encima para decorar. ¡Disfruta tu pasta Alfredo con pollo!
+
 
