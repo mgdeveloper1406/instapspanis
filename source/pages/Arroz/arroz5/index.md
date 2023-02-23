@@ -3,47 +3,63 @@ layout: basic.liquid
 tags: arroz
 group: arroz
 
-title: Arroz con cerdo al jengibre
+title: Arroz Frito
 description: Page description
-imageCover: https://instantpot.mx/wp-content/uploads/2020/08/InstantPot-recetas-18.jpg
-imagePreview: https://instantpot.mx/wp-content/uploads/2020/08/InstantPot-recetas-18.jpg
-imagePreviewMini: https://picsum.photos/seed/arroz!arroz5/320/240
+imageCover: https://img.freepik.com/free-photo/traditional-mexican-rice-served-with-green-peas-wooden-table_123827-20337.jpg?w=740&t=st=1677185723~exp=1677186323~hmac=dd2fd6a0003e75bfe59328561ebf02bbf53c895976bddc4942fbe32e903274ef
+imagePreview: https://img.freepik.com/free-photo/traditional-mexican-rice-served-with-green-peas-wooden-table_123827-20337.jpg?w=740&t=st=1677185723~exp=1677186323~hmac=dd2fd6a0003e75bfe59328561ebf02bbf53c895976bddc4942fbe32e903274ef
+imagePreviewMini: https://img.freepik.com/free-photo/traditional-mexican-rice-served-with-green-peas-wooden-table_123827-20337.jpg?w=740&t=st=1677185723~exp=1677186323~hmac=dd2fd6a0003e75bfe59328561ebf02bbf53c895976bddc4942fbe32e903274ef
 pubDate: 2022-10-12 01:07:30
 keywords:
 - Arroz5
 ---
 
+Arroz Frito
+
 Ingredientes:
 
-2 tazas de arroz
-2 ½ tazas de agua
-1 cda. aceite
-600 gramos de carne de cerdo
-1/3 de taza de salsa de soya
-1/3 de taza de caldo de pollo
-¼ de taza de azúcar morena
-2 cdas. jengibre picado
-1 diente de ajo picado
-1 cda. aceite de sésamo
-Porciones
-4
-Dificultad
-Bajo
-Tiempo
-50 min
-Momento de consumo:
-Comida
-Share:
-  
-PREPARACIÓN:
-En un recipiente añade las 2 tazas de arroz, el agua y mezcla. Aparta.
-En la olla añade 1 cda. de aceite y selecciona la función “saltear” por 30 minutos.
-Añade la carne y una vez que esté cocida retira.
-Añade la taza de salsa de soya, el caldo de pollo, el azúcar, el jengibre, el diente de ajo, el aceite de sésamo. Mezcla y añade la carne a la olla.
-Inserta la rejilla metálica y añade el recipiente con arroz que apartaste al inicio.
-Tapa y selecciona la función “cancelar” y después elige la función “cocinar a presión” con nivel de presión bajo por 14 minutos.
-Pasados los 14 minutos espera otros 10 minutos para que se libere la presión de la olla de forma natural.
-Para liberación rápida de la presión, gira la manija de liberación de vapor a la posición “venting” (ventilación) para dejar salir el vapor remanente.
-Verifica que la válvula flotante caiga hacia el interior de la tapa.
-  Sirve y disfruta.
+2 tazas de arroz de grano largo
 
+2 tazas de agua
+
+1/4 taza de aceite vegetal
+
+1 taza de zanahorias ralladas
+
+1 taza de guisantes congelados
+
+1/2 taza de cebolla picada
+
+2 dientes de ajo picados
+
+1/4 taza de salsa de soja baja en sodio
+
+2 huevos batidos
+
+1 cucharadita de jengibre rallado
+
+Sal y pimienta al gusto
+
+Cebolla verde picada para decorar
+
+Instrucciones:
+
+En la olla Instant Pot, agrega el arroz y el agua. Revuelve para combinar.
+
+Cierra la tapa de la Instant Pot y asegúrate de que la válvula esté en la posición de "sellado".
+
+Presiona el botón "Manual" y selecciona un tiempo de cocción de 8 minutos a alta presión.
+
+Una vez que se complete el ciclo de cocción, deja que la presión naturalmente se libere durante 10 minutos.
+
+Después de que hayan pasado 10 minutos, gira la válvula a la posición de "ventilación" para liberar la presión restante.
+
+Abre la tapa de la Instant Pot y agrega el aceite vegetal, la zanahoria rallada, los guisantes congelados, la cebolla picada y el ajo picado. 
+Revuelve para combinar.
+
+Selecciona el modo "Saltear" y revuelve con frecuencia hasta que las verduras estén suaves y el arroz esté dorado, aproximadamente durante 5-7 minutos.
+
+Agrega la salsa de soja, los huevos batidos, el jengibre rallado, la sal y la pimienta al gusto. Revuelve para combinar y cocina por unos minutos hasta que los huevos estén cocidos.
+
+Decora con cebolla verde picada y sirve caliente.
+
+¡Listo! Ahora puedes disfrutar de un delicioso arroz frito 
