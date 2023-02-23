@@ -3,59 +3,59 @@ layout: basic.liquid
 tags: postres
 group: postres
 
-title: Cheesecake de doble chocolate
+title: Brownie de Chocolate
 description: Page description
-imageCover: https://instantpot.mx/wp-content/uploads/2019/11/recetas-31.jpg
-imagePreview: https://instantpot.mx/wp-content/uploads/2019/11/recetas-31.jpg
-imagePreviewMini: https://instantpot.mx/wp-content/uploads/2019/11/recetas-31.jpg
+imageCover: https://img.freepik.com/free-photo/overhead-shot-freshly-baked-brownies-wooden-board_181624-23421.jpg?w=740&t=st=1677194512~exp=1677195112~hmac=76bc4dc9ac21ba790b34638c72f0d65721341219fd45c747c0327fd91b6acbc2
+imagePreview: https://img.freepik.com/free-photo/overhead-shot-freshly-baked-brownies-wooden-board_181624-23421.jpg?w=740&t=st=1677194512~exp=1677195112~hmac=76bc4dc9ac21ba790b34638c72f0d65721341219fd45c747c0327fd91b6acbc2
+imagePreviewMini: https://img.freepik.com/free-photo/overhead-shot-freshly-baked-brownies-wooden-board_181624-23421.jpg?w=740&t=st=1677194512~exp=1677195112~hmac=76bc4dc9ac21ba790b34638c72f0d65721341219fd45c747c0327fd91b6acbc2
 pubDate: 2022-10-12 11:35:17
 keywords:
 - Postres5
 ---
 
-Cheesecake de doble chocolate
+Brownie de Chocolate
+
 Ingredientes:
 
-Para la base:
+1/2 taza de mantequilla sin sal
 
-22 piezas de galletas de chocolate
-1 cucharada de azúcar
-1⁄4 cucharadita de canela en polvo
-1⁄4 taza de mantequilla, derretida
-Aceite en aerosol
-Para el cheesecake:
+1 taza de azúcar moreno
 
-1 1⁄4 taza de chispas de chocolate semi amargo
-500 g de queso crema, a temperatura ambiente
-3⁄4 taza de azúcar
-3 huevos
-1⁄4 taza de crema ácida
+2 huevos grandes
+
 1 cucharadita de extracto de vainilla
-1 1⁄2 tazas de agua
-3⁄4 taza de crema para batir
-Ralladura de chocolate
-Porciones:
-6 porciones
-Tiempo de preparación:
-20 min
-Nivel de dificultad:
-Bajo
-Momento de consumo:
-Postre
-Share:
-  
-Procedimiento:
-Procedimiento: Para la base:
 
-Mete las galletas en una bolsa resellable y tritura con ayuda de un rodillo. Agrégalas en un recipiente y mezcla con el azúcar, canela y mantequilla derretida.
-Rocía aceite en aerosol en un molde para horno que quepa en tu ​Instant Pot®​ y acomoda la galleta para formar la base. Refrigera.
-Para el cheesecake:
+1/2 taza de harina de trigo
 
-Derrite las chispas de chocolate en el microondas, calentando en lapsos de 1 minuto. Reserva.
-Bate el queso crema, agrega el azúcar y bate de nuevo. Agrega 1 huevo e incorpora. Repite el proceso con el resto de los huevos. Vierte la crema ácida y el extracto de vainilla, el chocolate derretido y revuelve.
-Añade la mezcla de cheesecake sobre la base y cubre con papel aluminio. Sirve el agua dentro de tu ​Instant Pot®.
-Cierra​ ​y presiona “Cocinar a presión”, cierra la válvula y dale 57 minutos de tiempo.
-Después de transcurridos los 57 minutos de presión en tu ​Instant Pot®​, deja escapar el vapor presionando el botón al lado de la válvula.
-Mezcla la crema para batir hasta que cambie de consistencia, creando picos duros.
-Sirve sobre el cheesecake y decora con ralladura de chocolate.
+1/3 taza de cacao en polvo sin azúcar
+
+1/4 cucharadita de sal
+
+1/4 cucharadita de polvo de hornear
+
+1/2 taza de chips de chocolate semidulce
+
+1/4 taza de nueces picadas (opcional)
+
+Instrucciones:
+
+En un tazón grande, bate la mantequilla y el azúcar moreno hasta obtener una mezcla cremosa.
+
+Agrega los huevos y el extracto de vainilla, y sigue batiendo hasta que todo quede bien incorporado.
+
+En otro tazón, mezcla la harina, el cacao en polvo, la sal y el polvo de hornear.
+
+Agrega los ingredientes secos a la mezcla de mantequilla y huevos, y bate hasta que todo quede bien combinado.
+
+Agrega los chips de chocolate y las nueces, si las estás usando, y mezcla todo bien.
+
+Vierte la mezcla en un molde apto para Instant Pot (puedes usar el trivet que viene con la Instant Pot o un molde para flan).
+
+Agrega 1 1/2 tazas de agua a la Instant Pot, coloca el molde con la mezcla encima del trivet, y tapa la Instant Pot.
+
+Presiona el botón "Manual" y configura el tiempo de cocción en 30 minutos a alta presión.
+
+Cuando termine el tiempo de cocción, deja que la presión se libere naturalmente durante 10 minutos antes de abrir la tapa.
+
+Retira el molde de la Instant Pot y deja enfriar el brownie a temperatura ambiente antes de cortarlo y servirlo. ¡Disfruta!
 

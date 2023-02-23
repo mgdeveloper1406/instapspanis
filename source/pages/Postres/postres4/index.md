@@ -3,48 +3,48 @@ layout: basic.liquid
 tags: postres
 group: postres
 
-title: Brownies
+title: Arroz con Leche
 description: Page description
-imageCover: https://instantpot.mx/wp-content/uploads/2019/11/recetas-29.jpg
-imagePreview: https://instantpot.mx/wp-content/uploads/2019/11/recetas-29.jpg
-imagePreviewMini: https://instantpot.mx/wp-content/uploads/2019/11/recetas-29.jpg
+imageCover: https://img.freepik.com/free-photo/purple-plate-full-healthy-oatmeal-porridge-with-cinnamon-powder_114579-86581.jpg?t=st=1677194381~exp=1677194981~hmac=4b8430e7116d757c4d75e64d6cb7bf313c18d56d5aa5554623f1d10dd555445f
+imagePreview: https://img.freepik.com/free-photo/purple-plate-full-healthy-oatmeal-porridge-with-cinnamon-powder_114579-86581.jpg?t=st=1677194381~exp=1677194981~hmac=4b8430e7116d757c4d75e64d6cb7bf313c18d56d5aa5554623f1d10dd555445f
+imagePreviewMini: https://img.freepik.com/free-photo/purple-plate-full-healthy-oatmeal-porridge-with-cinnamon-powder_114579-86581.jpg?t=st=1677194381~exp=1677194981~hmac=4b8430e7116d757c4d75e64d6cb7bf313c18d56d5aa5554623f1d10dd555445f
 pubDate: 2022-10-12 11:05:59
 keywords:
 - Postres4
 ---
 
-Brownies
 Ingredientes:
 
-3⁄4 taza de harina
-1⁄2 taza de cocoa en polvo
-1⁄2 cucharadita de polvo para hornear
-1⁄2 cucharadita de sal
-1⁄2 taza de mantequilla
-1 taza de azúcar
-2 huevos
+1 taza de arroz blanco
+
+1 1/2 tazas de agua
+
+1 lata (370 ml) de leche evaporada
+
+1 lata (395 gramos) de leche condensada
+
+1 rama de canela
+
 1 cucharadita de extracto de vainilla
-1 taza de chispas de chocolate
-1 1⁄2 tazas de agua
-Azúcar glass
-Crema batida
-Porciones:
-4 porciones
-Tiempo de preparación:
-1 h 15 min
-Nivel de dificultad:
-Bajo
-Momento de consumo:
-Comida
-Share:
-  
-Procedimiento:
-Mezcla el harina, cocoa, polvo para hornear y sal en un recipiente y reserva.
-Agrega la mantequilla, seguida del azúcar y bate. Rompe un huevo sobre la mezcla y bate hasta incorporar. Haz lo mismo con el siguiente, agregando el extracto de vainilla antes de batir.
-Añade la mitad de los polvos y revuelve. Repite con el resto de los polvos. Incluye las chispas de chocolate y mezcla de forma envolvente.
-Vierte la mezcla en un molde para horno previamente engrasado y cubre con papel aluminio.
-Acomoda la rejilla de metal, sirve el agua y coloca el molde.
-Cierra​ ​tu ​Instant Pot® ​y presiona “Cocinar a presión”, cierra la válvula y dale 45 minutos de tiempo.
-Después de transcurridos los 45 minutos de presión en tu ​Instant Pot®​, deja que repose 10 minutos, deja escapar el resto del vapor presionando el botón al lado de la válvula.
-Sirve y decora con glass y crema batida.
+
+1 pizca de sal
+
+Instrucciones:
+
+Enjuaga el arroz en agua fría hasta que el agua salga clara. Escurre el arroz y colócalo en la Instant Pot.
+
+Agrega el agua, la leche evaporada, la leche condensada, la rama de canela, el extracto de vainilla y la sal al arroz en la Instant Pot. Mezcla todo bien.
+
+Cierra la tapa de la Instant Pot y asegúrate de que la válvula esté en la posición "Sellado".
+
+Presiona el botón "Manual" y configura el tiempo de cocción en 20 minutos a alta presión.
+
+Cuando termine el tiempo de cocción, deja que la presión se libere naturalmente durante 10 minutos antes de abrir la tapa.
+
+Retira la rama de canela y mezcla bien el arroz con leche. Si lo prefieres más líquido, agrega más leche evaporada o leche regular.
+
+Sirve caliente o frío, decorando con canela en polvo o frutas frescas. ¡Disfruta!
+
+
+
 
