@@ -3,63 +3,42 @@ layout: basic.liquid
 tags: arroz
 group: arroz
 
-title: Res agridulce con arroz
+title: Arroz Fácil
 description: Page description
-imageCover: https://instantpot.mx/wp-content/uploads/2019/11/recetas-40.jpg
-imagePreview: https://instantpot.mx/wp-content/uploads/2019/11/recetas-40.jpg
-imagePreviewMini: https://instantpot.mx/wp-content/uploads/2019/11/recetas-40.jpg
+imageCover: https://img.freepik.com/free-photo/cooked-rice-red-cup-placed-plywood-floor_1150-17074.jpg?w=740&t=st=1677185120~exp=1677185720~hmac=9f7ac8710839c8a9fc3760b0088bbe79b9f69115472dec90e08a33bf664d2628
+imagePreview: https://img.freepik.com/free-photo/cooked-rice-red-cup-placed-plywood-floor_1150-17074.jpg?w=740&t=st=1677185120~exp=1677185720~hmac=9f7ac8710839c8a9fc3760b0088bbe79b9f69115472dec90e08a33bf664d2628
+imagePreviewMini: https://img.freepik.com/free-photo/cooked-rice-red-cup-placed-plywood-floor_1150-17074.jpg?w=740&t=st=1677185120~exp=1677185720~hmac=9f7ac8710839c8a9fc3760b0088bbe79b9f69115472dec90e08a33bf664d2628
 pubDate: 2022-10-12 01:06:01
 keywords:
 - Arroz1
 ---
 
-Res agridulce con arroz
+Arroz Fácil
+
 Ingredientes:
 
-Para la salsa:
+2 tazas de arroz
 
-1 taza de agua
-1⁄2 taza de salsa de soya
-1⁄2 taza de azúcar morena
-10 dientes de ajo, finamente picados
-1 cucharadita de jengibre, finamente picado
-1⁄4 cucharada de pimienta de cayena
-Para la carne:
+2 1/2 tazas de agua
 
-700 g de falda de res
-3 cucharada de fécula de maíz
-1 cucharada de aceite de oliva
-4 tallos de cebolla cambray, en trozos
-Para el arroz:
+1 cucharadita de sal
 
-2 tazas de arroz blanco, crudo
-2 1⁄4 tazas de agua
-Ajonjolí
-Porciones:
-4 porciones
-Tiempo de preparación:
-45 min
-Nivel de dificultad:
-Bajo
-Momento de consumo:
-Comida
-Share:
-  
-Procedimiento:
-Para la salsa:
+1 cucharada de aceite
 
-Mezcla el agua, salsa de soya, azúcar morena, ajo, jengibre y pimienta de cayena en un recipiente y reserva.
-Para la carne:
+Instrucciones:
 
-Agrega la carne a una bolsa resellable y añade 1 cucharada de fécula de maíz. Cierra y mezcla hasta que la carne quede cubierta.
-Presiona “saltear” en tu ​Instant Pot® ​y dale 5 minutos de tiempo. (De ser necesario, daremos más tiempo en esta opción).
-Vierte el aceite de oliva, la mitad de la carne y mezcla hasta sellar. Retira y agrega el resto de la carne. Cuando esté sellada, retira y reserva.
-Agrega la salsa y mezcla para despegar los sedimentos de la olla de acero. Regresa la carne a la olla y revuelve.
-Para el arroz:
+Enjuaga el arroz con agua fría hasta que el agua salga clara.
 
-Acomoda la rejilla de metal y un bowl resistente al calor sobre ella. Añade el arroz y vierte el agua sobre él.
-Cierra​ ​y presiona “Cocinar a presión”, cierra la válvula y dale 10 minutos de tiempo.
-Después de transcurridos los 10 minutos de presión en tu ​Instant Pot®​,  deja que repose 10 minutos, deja escapar el resto del vapor presionando el botón al  lado de la válvula.
-Retira el arroz, presiona “Saltear” y dale 5 minutos de tiempo. (De ser necesario,  daremos más tiempo en esta opción).
-Incorpora el resto de la fécula de maíz y mezcla hasta que espese un poco.
-Agrega los tallos de cebolla de cambray, revuelve una vez más para que todos los  ingredientes estén mezclados. Sirve y disfruta.
+Agrega el arroz, agua, sal y aceite a la olla Instant Pot y revuelve para combinar.
+
+Asegúrate de que la válvula esté en "sellado" y presiona el botón "Arroz".
+
+El arroz se cocinará automáticamente en la olla InstantPot y tardará unos 12-15 minutos en cocinarse, dependiendo de la variedad de arroz.
+
+Una vez que se complete el ciclo de cocción, deja que la presión naturalmente se libere durante 10 minutos.
+
+Después de que hayan pasado 10 minutos, gira la válvula a la posición "ventilación" para liberar la presión restante.
+
+Abre la olla Instant Pot y usa un tenedor para soltar el arroz. Sirve caliente y disfruta de tu arroz perfectamente cocido.
+
+
