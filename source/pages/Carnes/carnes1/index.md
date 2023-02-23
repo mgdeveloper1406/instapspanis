@@ -3,45 +3,49 @@ layout: basic.liquid
 tags: carnes1
 group: carnes1
 
-title: Tacos al pastor
+title: Carne de res con verduras
 description: Page description
-imageCover: https://instantpot.mx/wp-content/uploads/2019/06/recetas-10.jpg
-imagePreview: https://instantpot.mx/wp-content/uploads/2019/06/recetas-10.jpg
-imagePreviewMini: https://instantpot.mx/wp-content/uploads/2019/06/recetas-10.jpg
+imageCover: https://img.freepik.com/free-photo/fried-meat-with-potatoes-bell-peppers-greens_141793-1067.jpg?w=360&t=st=1677191300~exp=1677191900~hmac=c17a2e985850e9177645f00160ec91b2a98b2556825748940df1bb1fb81f9b29
+imagePreview: https://img.freepik.com/free-photo/fried-meat-with-potatoes-bell-peppers-greens_141793-1067.jpg?w=360&t=st=1677191300~exp=1677191900~hmac=c17a2e985850e9177645f00160ec91b2a98b2556825748940df1bb1fb81f9b29
+imagePreviewMini: https://img.freepik.com/free-photo/fried-meat-with-potatoes-bell-peppers-greens_141793-1067.jpg?w=360&t=st=1677191300~exp=1677191900~hmac=c17a2e985850e9177645f00160ec91b2a98b2556825748940df1bb1fb81f9b29
 pubDate: 2022-10-12 01:08:00
 keywords:
 - Carnes1
 ---
 
-Tacos al pastor
+Carne de res con verduras
+
 Ingredientes:
 
-1⁄2 taza de jugo de piña
-1⁄2 taza de jugo de naranja
-1 pastilla de achiote
-1⁄4 taza de vinagre blanco
-1/2 Kg de lomo de cerdo
-Para servir:
+500 gramos de carne de res cortada en cubos
 
-1⁄4 kg de tortillas de maíz
-1⁄2 cebolla finamente picada
-1⁄4 manojo de cilantro finamente picado 1⁄4 taza de piña en láminas
-Porciones:
-​4 porciones
-Tiempo de preparación:
-35 min
-Nivel de dificultad: ​
-Bajo
-Momento de consumo:
-Comida
-Share:
-  
-Preparación:
-Licúa el jugo de piña junto con el jugo de naranja, el achiote y el vinagre; coloca el lomo de cerdo dentro de una bolsa de vacío y vierte encima la salsa de achiote y sella la bolsa.
+1 cebolla picada
 
-Llena la Instant Pot® con agua hasta la mitad de la olla, agrega la bolsa sellada al vacío con la carne cierra la tapa de la olla y presiona la tecla de “Sous-Vide”, deja cocinar por 2 horas a 60 grados.
+2 dientes de ajo picados
 
-Una vez que suene la alarma gira la válvula con ayuda de una cuchara de madera para romper el sello de presión, espera a que deje de salir el vapor y gira la tapa para abrir.
+2 zanahorias peladas y cortadas en rodajas
 
-Desmenuza la carne y sirve en tacos con cebolla, cilantro y piña en cubos.
+2 tallos de apio cortados en trozos
+
+1 taza de caldo de carne
+
+1 cucharada de aceite de oliva
+
+Sal y pimienta al gusto
+
+Instrucciones:
+
+Presiona el botón "Sauté" en la Instant Pot y agrega el aceite de oliva.
+
+Agrega la cebolla y el ajo, y cocina hasta que estén suaves.
+
+Agrega la carne de res y cocina hasta que se dore.
+
+Agrega las zanahorias, el apio, el caldo de carne, la sal y la pimienta.
+
+Cierra la tapa de la Instant Pot y asegúrate de que la válvula esté en la posición "Sellado".
+
+Presiona el botón "Manual" y configura el tiempo de cocción en 25 minutos.
+
+Cuando termine el tiempo de cocción, deja que la presión se libere naturalmente durante 10 minutos antes de abrir la tapa.
 

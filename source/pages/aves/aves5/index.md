@@ -7,7 +7,7 @@ title: Pollo al Ajillo
 description: Page description
 imageCover: https://img.freepik.com/free-photo/grilles-chicken-steak-with-teriyaki-sauce_1339-5198.jpg?w=740&t=st=1677186698~exp=1677187298~hmac=6ac6a190b33fa2afed62de69638ea7332cb6b7540fd22689b09b8f14921f3221
 imagePreview: https://img.freepik.com/free-photo/grilles-chicken-steak-with-teriyaki-sauce_1339-5198.jpg?w=740&t=st=1677186698~exp=1677187298~hmac=6ac6a190b33fa2afed62de69638ea7332cb6b7540fd22689b09b8f14921f3221
-imagePreviewMini: https://img.freepik.com/free-photo/grilles-chicken-steak-with-teriyaki-sauce_1339-5198.jpg?w=740&t=st=1677186698~exp=1677187298~hmac=6ac6a190b33fa2afed62de69638ea7332cb6b7540fd22689b09b8f14921f3221
+imagePreviewMini: https://img.freepik.com/free-photo/grilles-chicken-steak-with-teriyaki-sauce_1339-5198.jpg?w=740&t=st=1677186698~exp=1677187298~hmac=6ac6a190b33fa2afed62de69638ea7332cb6b7540fd22689b09b8f14921f3221 
 pubDate: 2022-10-12 01:14:22
 keywords:
 - Aves5
