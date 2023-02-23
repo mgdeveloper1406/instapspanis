@@ -3,42 +3,64 @@ layout: basic.liquid
 tags: aves
 group: aves
 
-title: Alitas Cilantro Limón
+title: Pollo a la Barbacoa
 description: Page description
-imageCover: https://instantpot.mx/wp-content/uploads/2019/11/recetas-34.jpg
-imagePreview: https://instantpot.mx/wp-content/uploads/2019/11/recetas-34.jpg
-imagePreviewMini: https://instantpot.mx/wp-content/uploads/2019/11/recetas-34.jpg
+imageCover: https://img.freepik.com/free-photo/baked-appetizing-whole-chicken-with-oranges-cranberries-oven-form-closeup_1220-6581.jpg?w=740&t=st=1677186447~exp=1677187047~hmac=13eeb23de87aaee5c7863f0516c74280ce30c84cd221a5db871652742e957eca
+imagePreview: https://img.freepik.com/free-photo/baked-appetizing-whole-chicken-with-oranges-cranberries-oven-form-closeup_1220-6581.jpg?w=740&t=st=1677186447~exp=1677187047~hmac=13eeb23de87aaee5c7863f0516c74280ce30c84cd221a5db871652742e957eca
+imagePreviewMini: https://img.freepik.com/free-photo/baked-appetizing-whole-chicken-with-oranges-cranberries-oven-form-closeup_1220-6581.jpg?w=740&t=st=1677186447~exp=1677187047~hmac=13eeb23de87aaee5c7863f0516c74280ce30c84cd221a5db871652742e957eca
 pubDate: 2022-10-12 01:13:37
 keywords:
 - Aves3
 ---
 
-Alitas Cilantro Limón
+Pollo a la Barbacoa:
+
 Ingredientes:
 
-1 cucharada de aceite de oliva
-1 kg de alitas de pollo, separadas
-4 dientes de ajo finamente picados
-1⁄3 taza de caldo de pollo
-3 cucharadas de jugo de limón
-1⁄4 cucharadita de pimienta de cayena
-1 cucharadita de sal
-2 cucharadas de cilantro picado
-Porciones:
-4 porciones
-Tiempo de preparación:
-35 min
-Nivel de dificultad:
-Bajo
-Momento de consumo:
-Snack/Botana
-Share:
-  
-Procedimiento:
-Presiona “saltear” en tu ​Instant Pot® ​y dale 10 minutos de tiempo. (De ser necesario, daremos más tiempo en esta opción).
-Vacía el aceite de oliva y la mitad de las alitas. Sella, retira y repite con el resto de alitas.
- Agrega el ajo, regresa las alitas cocidas y mezcla todo. Vierte el caldo de pollo, jugo de limón, pimienta de cayena, sal y cilantro. Revuelve.
- Cierra​ ​y presiona “Cocinar a presión”, cierra la válvula y dale 5 minutos de tiempo.
-Después de transcurridos los 5 minutos de presión en tu ​Instant Pot®​, reposa por 15 minutos. Después deja escapar el vapor presionando el botón al lado de la válvula.
-Retira las alitas y acomódalas en una charola con papel encerado. Llévalas a horno a 200oC por 5 minutos. Disfruta.
+1 kg de pechuga de pollo sin piel
 
+1 taza de salsa barbacoa
+
+
+1/4 taza de agua
+
+2 cucharadas de aceite vegetal
+
+1 cebolla picada
+
+3 dientes de ajo picados
+1/2 cucharadita de pimentón ahumado
+
+1/2 cucharadita de comino molido
+
+1/2 cucharadita de sal
+
+1/4 cucharadita de pimienta negra molida
+
+Cilantro fresco picado para decorar
+
+Instrucciones:
+
+Selecciona el modo "Saltear" en la olla Instant Pot y agrega el aceite vegetal.
+
+Agrega la cebolla y el ajo y saltea hasta que estén suaves, aproximadamente durante 3-4 minutos.
+
+Agrega el pimentón ahumado, el comino, la sal y la pimienta y revuelve para combinar.
+
+Agrega el pollo y dora por ambos lados, aproximadamente durante 3-4 minutos por cada lado.
+
+Agrega la salsa barbacoa y el agua y revuelve para combinar.
+
+Cierra la tapa de la Instant Pot y asegúrate de que la válvula esté en la posición de "sellado".
+
+Presiona el botón "Manual" y selecciona un tiempo de cocción de 10 minutos a alta presión.
+
+Una vez que se complete el ciclo de cocción, deja que la presión naturalmente se libere durante 10 minutos.
+
+Abre la tapa de la Instant Pot y retira el pollo de la salsa.
+
+Selecciona el modo "Saltear" y deja que la salsa hierva hasta que se reduzca y espese, aproximadamente durante 5 minutos.
+
+Sirve el pollo con la salsa y decora con cilantro fresco picado.
+
+¡Disfruta de tu delicioso pollo a la barbacoa
