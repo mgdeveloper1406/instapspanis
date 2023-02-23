@@ -3,46 +3,58 @@ layout: basic.liquid
 tags: aves
 group: aves
 
-title: Pechugas de pollo Caprese
+title: Pollo al Ajillo
 description: Page description
-imageCover: https://instantpot.mx/wp-content/uploads/2019/11/recetas-32.jpg
-imagePreview: https://instantpot.mx/wp-content/uploads/2019/11/recetas-32.jpg
-imagePreviewMini: https://instantpot.mx/wp-content/uploads/2019/11/recetas-32.jpg
+imageCover: https://img.freepik.com/free-photo/grilles-chicken-steak-with-teriyaki-sauce_1339-5198.jpg?w=740&t=st=1677186698~exp=1677187298~hmac=6ac6a190b33fa2afed62de69638ea7332cb6b7540fd22689b09b8f14921f3221
+imagePreview: https://img.freepik.com/free-photo/grilles-chicken-steak-with-teriyaki-sauce_1339-5198.jpg?w=740&t=st=1677186698~exp=1677187298~hmac=6ac6a190b33fa2afed62de69638ea7332cb6b7540fd22689b09b8f14921f3221
+imagePreviewMini: https://img.freepik.com/free-photo/grilles-chicken-steak-with-teriyaki-sauce_1339-5198.jpg?w=740&t=st=1677186698~exp=1677187298~hmac=6ac6a190b33fa2afed62de69638ea7332cb6b7540fd22689b09b8f14921f3221
 pubDate: 2022-10-12 01:14:22
 keywords:
 - Aves5
 ---
 
-Pechugas de pollo Caprese
 Ingredientes:
 
-1 cucharada de aceite de oliva
-1⁄2 cebolla, fileteada
-4 dientes de ajo finamente picados
-1⁄2 taza de caldo de pollo
-700 g de pechuga de pollo
-3 1⁄2 tazas de tomates cherry en mitades
-3 cucharadas de vinagre balsámico
-1 cucharadita de hojuelas de chile
-2 cucharaditas de sal
-1⁄2 cucharadita de pimienta
-200 gramos de queso mozzarella en perlas
-2 cucharadas de albahaca, en tiras
-Porciones:
-4 porciones
-Tiempo de preparación:
-35 min
-Nivel de dificultad:
-Bajo
-Momento de consumo:
-Comida
-Share:
-  
-Procedimiento:
-Presiona “saltear” en tu ​Instant Pot® ​y dale 10 minutos de tiempo. (De ser necesario, daremos más tiempo en esta opción).
-Agrega el aceite de oliva y la cebolla. Mezcla hasta que cambie de color. Añade el ajo, caldo de pollo, pechugas de pollo, tomates cherry, vinagre balsámico, hojuelas de chile, sal y pimienta.
-Cierra​ ​y presiona “Cocinar a presión”, cierra la válvula y dale 12 minutos de tiempo.
-Después de transcurridos los 12 minutos de presión en tu ​Instant Pot®​, deja escapar el vapor presionando el botón al lado de la válvula.
-Acomoda el queso y la albahaca. Cierra de nuevo y deja reposar por 5 minutos más.
-Sirve y disfruta.
+1 kg de muslos de pollo deshuesados y sin piel
 
+4 dientes de ajo picados
+
+1/4 taza de aceite de oliva
+
+1/2 taza de caldo de pollo
+
+1/2 taza de vino blanco seco
+
+1 cucharadita de pimentón
+
+1/2 cucharadita de orégano seco
+
+Sal y pimienta negra al gusto
+
+Perejil fresco picado para decorar
+
+Instrucciones:
+
+Enciende la Instant Pot en el modo "Saltear" y agrega el aceite de oliva.
+
+Agrega los muslos de pollo y saltea hasta que estén dorados por todos lados.
+
+Agrega el ajo y saltea durante 1-2 minutos hasta que esté fragante.
+
+Agrega el pimentón y el orégano y saltea durante 1 minuto más.
+
+Agrega el caldo de pollo y el vino blanco y raspa el fondo de la olla para soltar cualquier trozo de pollo que pueda haberse pegado.
+
+Añade sal y pimienta al gusto.
+
+Cierra la tapa de la Instant Pot y asegúrate de que la válvula esté en la posición de "sellado".
+
+Presiona el botón "Manual" y selecciona un tiempo de cocción de 8 minutos a alta presión.
+
+Una vez que se complete el ciclo de cocción, deja que la presión naturalmente se libere durante 10 minutos.
+
+Abre la tapa de la Instant Pot y verifica que el pollo esté completamente cocido.
+
+Sirve el pollo al ajillo caliente, con el jugo de la cocción por encima y el perejil fresco picado para decorar.
+
+¡Buen provecho!
